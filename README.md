@@ -12,3 +12,16 @@ cd LCD_3.5_RPi_3-4-5
 chmod +x setup.sh
 
 ./setup.sh
+
+---
+# Que hace?
+
+Habilita SPI
+
+Cambia de Wayland a X11
+
+Aplica overlay piscreen
+
+Instala soporte táctil (evdev)
+
+Configura calibración táctil básica
