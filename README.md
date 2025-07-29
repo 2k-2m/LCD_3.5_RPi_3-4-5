@@ -6,6 +6,9 @@ Este repositorio instala y configura automáticamente una pantalla SPI de 3.5" (
 # Instalación rápida
 
 git clone https://github.com/2k-2m/LCD_3.5_RPi_3-4-5.git
+
 cd LCD_3.5_RPi_3-4-5
+
 chmod +x setup.sh
+
 ./setup.sh
